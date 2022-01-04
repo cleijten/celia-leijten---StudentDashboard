@@ -1,70 +1,15 @@
-# Getting Started with Create React App
+Student Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Van de requirements heb ik de volgende punten uitvoerd:
+1. Bar Chart gemaakt met Victory Tool van alle scores. Ik heb het gemiddelde per assignment uitgerekend en getoond als horizontale bar chart
+2. Line Chart gemaakt op dezelfde manier als bar chart
+3. Graphs leesbaar gemaakt door de assignments in een hoek van 45 graden te tonen, een legenda toegevoegd en duidelijke kleuren gebruikt
+4. Een overzicht van alle studenten, als je op een student klikt, krijg je info over de student te zien plus een bar chart met de ingevulde scores
+5. Table overview van alle assignments, studenten en scores. Ik heb daarbij 2 filter methodes gemaakt op assignment en op student
 
-## Available Scripts
+Niet gedaan:
+1. checkboxes voor alleen difficulty of fun rating
+2. meerdere studenten kiezen en dan bar chart tonen
+3. sorteren graphs
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+N.a.v. de opdracht songsaver, waarbij je ook checkboxes moest gebruiken, heb ik verder geen uitleg gekregen bij de feedback over hoe ik dat zou moeten implementeren. Dit had ik wel gevraagd, maar daar is geen respons op gekomen.
